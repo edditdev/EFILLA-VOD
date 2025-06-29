@@ -1,0 +1,7 @@
+--- MOVIES ---
+Plankton: Film / Plankton | film | https://cdn-slam0nrryh6aoi5z.orbitcache.com/engine/hls2/01/13850/t4z6zgfprtpt_,n,.urlset/master.m3u8?t=9eeVPcmg-ZYFEc092Sng3OUs2tql2BkoV3WphSS5FJg&s=1751168623&e=14400&f=69251284&node=VATgyu+9Mqi9HFHuqVBEMyx6tYk8ibTo4WmJouWz9yQ=&i=82.172&sp=2500&asn=13127&q=n&rq=Oyg6mVbbHKPkAdGEDmqqcWAyoUvjXUfl8EHL6Spo | https://filman.cc/public/static/poster/big/65070.jpg
+Technozul | film | https://eddit.me/streaming/assets/output.m3u8 | https://i.ytimg.com/vi/KSPxHniCtmw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AYACkAGKAgwIABABGB8gYShyMA8=&rs=AOn4CLBgEUaMbGxqYT5QML2T37WrKjweiA
+--- SERIES ---
+Pati | serial | seriale/pati.txt | https://filman.cc/public/static/poster/big/7340-series.jpg
+Queerowe rewolucje: wymarzony dom / Trixie Motel: Drag Me Home | serial | seriale/lady.txt | https://filman.cc/public/static/poster/big/11401-series.jpg
+--- TOP ---

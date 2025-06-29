@@ -1,0 +1,17 @@
+{
+    "eddit": {
+        "pass": "MTIz",
+        "email": "zaborowskyy@gmail.com",
+        "role": "ADMIN"
+    },
+    "red": {
+        "pass": "MTIz",
+        "email": "zaborowskyy@gmail.com",
+        "role": "USER"
+    },
+    "123": {
+        "pass": "MTIz",
+        "email": "123@123",
+        "role": "USER"
+    }
+}
