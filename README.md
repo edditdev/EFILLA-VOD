@@ -62,7 +62,7 @@ Below are screenshots showcasing the EFILLA platform's interface:
 
 2. **Installation**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/edditdev/EFILLA-VOD
    cd efilla
    ```
    - Copy files to your web server’s root (e.g., `/var/www/html`).
